@@ -12,7 +12,6 @@
     以降：
     git push origin develop
 
-
 ブランチを作る
     git branch <branchname>
 
