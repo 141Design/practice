@@ -1,3 +1,11 @@
 ローカルリポジトリ作成
     cd 新しくローカルリポジトリを作るディレクトリ
     git init
+
+ローカルリポジトリにコミットする
+    git add 追加するファイル
+    git commit -m "add : memo.txt"
+
+リモートリポジトリにプッシュする
+    git remote add origin https://github.com/141Design/practice.git
+    
