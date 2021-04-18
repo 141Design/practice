@@ -18,5 +18,7 @@
 ブランチを切り替える(新しいブランチを作って移動する)
     git checkout <branch>
     
+
 マージする(マージ元に移動する)
     git merge branch
+    
